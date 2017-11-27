@@ -3,6 +3,15 @@
 > author: reamd
 
 ### Calendar (日期插件)
+效果图：
+- 展开状态
+
+![open](https://raw.githubusercontent.com/reamd/material/master/vue-calendar/open.jpg)
+
+- 收缩状态
+
+![close](https://raw.githubusercontent.com/reamd/material/master/vue-calendar/close.jpg)
+
 
 **1.引入Calendar**
 
