@@ -47,6 +47,7 @@
     ```code
     cDate.init()
     cDate.renderClass([1488038400000], 'sign')
-        cDate.onChange = function (c, sArr, type) {
+    cDate.onChange = function (c, sArr, type) {
+        ...
     }
     ```
